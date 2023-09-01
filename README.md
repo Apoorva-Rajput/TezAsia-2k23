@@ -14,6 +14,7 @@ Tech Stack used while building the project =
 The project employs a tech stack encompassing blockchain platforms like Ethereum for data security and immutability. Smart contracts ensure access control and privacy. The decentralized web application is built with HTML, CSS, and JavaScript, utilizing React for dynamic front-end. Node.js and Express.js power the back-end, enabling secure data processing. Testing employs Ganache. Additionally, used Web 3 and Truffle This comprehensive tech stack guarantees a robust, secure, and user-friendly solution for enhancing medical health records management through blockchain technology. 
 
 Your Deployed Smart Contract's Link * NA
+
 Folder link to project codebase on Tezos-India/TezAsia-2k23 Repository * = https://github.com/Apoorva-Rajput/TezAsia-2k23
 
 Github repository link = https://github.com/Apoorva-Rajput/TezAsia-2k23
